@@ -1,2 +1,2 @@
 class ETL:
-  pass
+  print('test etl')
