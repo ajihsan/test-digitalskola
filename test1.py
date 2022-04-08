@@ -1,2 +1,3 @@
 class Test1:
-  pass
+  def __init__(self) -> None:
+      pass
